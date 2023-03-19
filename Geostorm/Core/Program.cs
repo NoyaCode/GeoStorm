@@ -15,7 +15,7 @@ namespace Geostorm
             //--------------------------------------------------------------------------------------
             Raylib.SetTraceLogCallback(&Logging.LogConsole);
             Raylib.SetConfigFlags(ConfigFlags.FLAG_MSAA_4X_HINT | ConfigFlags.FLAG_VSYNC_HINT | ConfigFlags.FLAG_WINDOW_RESIZABLE);
-            Raylib.InitWindow(screenWidth, screenHeight, "ImGui demo");
+            Raylib.InitWindow(screenWidth, screenHeight, "GeoStorm");
             Raylib.SetTargetFPS(60);
 
             Raylib.InitAudioDevice();
