@@ -14,9 +14,9 @@ The objective of this project was to quickly familiarize oneself with the C# lan
 <br>
 
 ## Controls:
-- Moving &nbsp; → ```ESF```
-- Shooting → ```Left Click```
-- Aiming &nbsp;&nbsp; → ```Mouse Cursor```
+- Move  → ```ESF```
+- Shoot → ```Left Click```
+- Aim &nbsp;&nbsp; → ```Mouse Cursor```
 
 <br />
 <hr />
